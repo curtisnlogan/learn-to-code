@@ -1,3 +1,33 @@
+note: 📝 Story Points & Modified Fibonacci (Minimalist)
+
+Story Points
+
+Relative measure of effort, complexity, uncertainty.
+
+Not hours → compare tasks against each other.
+
+Used for sprint planning & tracking velocity.
+
+Modified Fibonacci Scale
+
+Sequence: 1, 3, 5, 8, 13, 20, 40
+
+Based on Fibonacci, simplified for practicality.
+
+Non-linear → bigger jumps for larger, uncertain work.
+
+Guidelines
+
+1–3 = Small, simple, low effort.
+
+5–8 = Medium, some complexity.
+
+13 = Large, check if it needs splitting.
+
+20–40 = Too big → likely an Epic, must be broken down.
+
+✅ Takeaway: Use points for relative sizing. Break down anything too large.
+
 note: tasks
 
 1 (use verbs instead of nouns)
