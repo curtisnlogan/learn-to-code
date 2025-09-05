@@ -1,4 +1,4 @@
-note: nothing should be getting done that isn't on the product backlog
+note: nothing should be getting done that isn't on the product backlog. its something that possibly may get delivered, it is not a commitment.
 
 note: 📝 Story Points & Modified Fibonacci (Minimalist)
 
