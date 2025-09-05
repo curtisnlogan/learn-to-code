@@ -1,3 +1,11 @@
+note: tasks
+
+1 (use verbs instead of nouns)
+
+2 (create ideally-sized tasks)
+
+4 (cover the acceptance criteria)
+
 # Notes
 
 ## 1) Mindset for Learning to Code
