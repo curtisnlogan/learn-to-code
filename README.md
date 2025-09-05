@@ -1,3 +1,5 @@
+note: nothing should be getting done that isn't on the product backlog
+
 note: 📝 Story Points & Modified Fibonacci (Minimalist)
 
 Story Points
