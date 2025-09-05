@@ -1,4 +1,20 @@
-note: nothing should be getting done that isn't on the product backlog. its something that possibly may get delivered, it is not a commitment.
+note: As a rule of thumb, a user story is the smallest unit of work that can deliver value to customers. If you can break a user story further into multiple stories, then it should be considered as an epic and not a user story.
+
+note: timeboxing. you decided on a fixed time period called an iteration. you then work on tasks that were assigned for that iteration and do not extend the deadline if things remain incomplete, nor do you compromise quality. instead those things get returned to the backlog at the end of the cycle and reprioritized.
+
+note: Product Backlog Refinement (Agile)
+
+Top (High Priority): Small, detailed → Dev-ready user stories & defects
+
+Middle: Medium detail → Brief user stories
+
+Bottom: Big, vague → Epics
+
+Over time: Items move up & get refined (progressive elaboration)
+
+Why: Avoid over-detailing too early, keep backlog flexible, ensure next sprint has ready work
+
+note: nothing should be getting done that isn't on the product backlog. its something that possibly may get delivered, it is not a commitment. backlog should reguarly be groomed. one doesnt just insert something into the backlog, you discuss it first, it may need splitting, turning into an epic etc. backlog should be priotized and reassessed reguarly.
 
 note: 📝 Story Points & Modified Fibonacci (Minimalist)
 
