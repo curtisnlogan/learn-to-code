@@ -1,3 +1,27 @@
+notes: It is widely agreed in the Agile community that “Must-Haves” should not exceed 60% of the total user stories planned for the next iteration
+
+note: priotisation in MOSCOW agile is iteration based. Something that is could have could turn into a must have by iteration 8
+
+notes: MoSCoW Prioritization
+
+M – Must Have: Guaranteed to be delivered.
+
+S – Should Have: Adds significant value, but not vital.
+
+C – Could Have: Nice to include, but small impact if left out.
+
+W – Won’t Have (this time): Not a priority for this iteration.
+
+note: If Priorities Change Mid-Iteration
+
+Stop & assess: Confirm new priorities with Product Owner.
+
+Reprioritize backlog: Adjust based on business value.
+
+Decide: Continue current sprint (if change is minor) or cancel/re-plan (if major).
+
+Goal: Maximize value, avoid wasted effort.
+
 note: As a rule of thumb, a user story is the smallest unit of work that can deliver value to customers. If you can break a user story further into multiple stories, then it should be considered as an epic and not a user story.
 
 note: timeboxing. you decided on a fixed time period called an iteration. you then work on tasks that were assigned for that iteration and do not extend the deadline if things remain incomplete, nor do you compromise quality. instead those things get returned to the backlog at the end of the cycle and reprioritized.
